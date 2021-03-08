@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'On-AirInline';
+    src: url('fonts/on-air-inline-webfont.eot');
+    src: url('fonts/on-air-inline-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/on-air-inline-webfont.woff') format('woff'),
+         url('fonts/on-air-inline-webfont.ttf') format('truetype'),
+         url('fonts/on-air-inline-webfont.svg#On-AirInline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
